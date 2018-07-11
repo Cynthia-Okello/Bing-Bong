@@ -8,7 +8,7 @@ $(document).ready(function() {
   });
 
   var bingBong = function(number) {
-    return false;
+    return bing,bong or bing-bong;
   };
 
   // jQuery user interface logic here.
